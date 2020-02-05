@@ -1,0 +1,7 @@
+C:\Users\Kody\Source\Repos\Chessboard\Chessboard\bin\Debug\Chessboard.exe.config
+C:\Users\Kody\Source\Repos\Chessboard\Chessboard\bin\Debug\Chessboard.exe
+C:\Users\Kody\Source\Repos\Chessboard\Chessboard\bin\Debug\Chessboard.pdb
+C:\Users\Kody\Source\Repos\Chessboard\Chessboard\obj\Debug\Chessboard.csprojAssemblyReference.cache
+C:\Users\Kody\Source\Repos\Chessboard\Chessboard\obj\Debug\Chessboard.csproj.CoreCompileInputs.cache
+C:\Users\Kody\Source\Repos\Chessboard\Chessboard\obj\Debug\Chessboard.exe
+C:\Users\Kody\Source\Repos\Chessboard\Chessboard\obj\Debug\Chessboard.pdb
